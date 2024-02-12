@@ -7,7 +7,7 @@ documentation = "https://docs.rs/?"
 homepage = "https://alephzero.org"
 license = "Apache-2.0"
 categories = ["cryptography"]
-repository = "https://github.com/Cardinal-Cryptography/aleph-node"
+repository = "https://github.com/Cardinal-Cryptography/liminal-ark-relations"
 description = "An instantiation of the Poseidon SNARK-friendly hash function."
 
 [dependencies]
